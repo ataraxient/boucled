@@ -1,6 +1,6 @@
 # boucled
 
-la librairie ne permet que de créer un bot qui postera des topics prédéfinis.
+La librairie ne permet que de créer un bot qui postera des topics prédéfinis.
 
 ### Prérequis
 
